@@ -14,10 +14,11 @@
 <div align = "left">
   <img src = "https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javascript&logoColor=white">
   <img src = "https://img.shields.io/badge/-Node.js-brightgreen?style=flat&logo=node.js&logoColor=white">
-  <img src = "https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white">
   <img src = "https://img.shields.io/badge/-Html-red?style=flat&logo=html5&logoColor=white">
   <img src = "https://img.shields.io/badge/-Css-blue?style=flat&logo=css3&logoColor=white">
+  <img src = "https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white">
   </br>
+  <img src = "https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white">
   <img src = "https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white">
   <img src = "https://img.shields.io/badge/-Github-gray?style=flat&logo=github&logoColor=white">
   <img src = "https://img.shields.io/badge/-VsCode-blue?style=flat&logo=visualstudiocode&logoColor=white">
