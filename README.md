@@ -3,7 +3,7 @@
 <h3 align="center">A developer from Brazil</h3>
 
 - 🏫 I'm currently studing on <a href="https://betrybe.com" target="_blank">Trybe</a>.
-- 🧑‍💻 I’m currently learning and improving HTML, CSS, Bootstrap.
+- 🧑‍💻 I’m currently learning and improving React, NodeJS, Bootstrap.
 - ⚽ I like, playing futvolei and running. 
 - 📩 How to reach me: http://www.linkedin.com/in/wilson-da-silva-goltara-482094152/
 
@@ -11,7 +11,7 @@
  <div display="inline">
   <a href="https://github.com/wilsongoltara">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wilsongoltara&show_icons=true&count_private=true&theme=dark" alt="wilsongoltara" />
-  <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsongoltara&show_icons=true&locale=en&layout=compact&theme=dark" alt="wilsongoltara"      />
+  <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsongoltara&show_icons=true&locale=en&layout=compact&theme=dark" alt="wilsongoltara" />
  </div>
  
 ### ⚙️ Languages and Tools
@@ -27,4 +27,4 @@
   <img src = "https://img.shields.io/badge/-VsCode-blue?style=flat&logo=visualstudiocode&logoColor=white">
 </div>
 </br>
-Portifolio: <a href="https://wilsongoltara.github.io/portfolio/">wilsongoltara.github.io/portfolio/</a>
+portfolio: <a href="https://wilsongoltara.github.io/portfolio/">wilsongoltara.github.io/portfolio/</a>
