@@ -16,8 +16,8 @@
  
 ### ⚙️ Languages and Tools
 <div align = "left">
-  <img src = "https://img.shields.io/badge/-Html-red?style=flat&logo=html5&logoColor=white">
-  <img src = "https://img.shields.io/badge/-Css-blue?style=flat&logo=css3&logoColor=white">
+  <img src = "https://img.shields.io/badge/-React-blue?style=flat&logo=React&logoColor=white">
+  <img src = "https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=Bootstrap&logoColor=white">
   <img src = "https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javascript&logoColor=white">
   <img src = "https://img.shields.io/badge/-Node.js-brightgreen?style=flat&logo=node.js&logoColor=white">
   <img src = "https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white">
