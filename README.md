@@ -24,7 +24,6 @@
   <img src = "https://img.shields.io/badge/-Jest-red?style=for-the-badge&logo=jest&logoColor=white">
   <img src = "https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
   <img src = "https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white">
-  <img src = "https://img.shields.io/badge/-Github-gray?style=for-the-badge&logo=github&logoColor=white">
 </div>
 </br>
 portfolio: <a href="https://wilsongoltara.github.io/portfolio/">wilsongoltara.github.io/portfolio/</a>
