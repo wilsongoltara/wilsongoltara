@@ -6,6 +6,7 @@
 - 🧑‍💻 I’m currently learning and improving NodeJS, ORM, TypeScript.
 - ⚽ I like to go to the beach, play futvolei and running. 
 - 📩 How to reach me: http://www.linkedin.com/in/wilsongoltara
+- <a href="https://wilson-goltara.vercel.app">My portfolio</a>
 
 ### My status
  <div display="inline">
@@ -26,4 +27,3 @@
   <img src = "https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white">
 </div>
 </br>
-portfolio: <a href="https://wilsongoltara.github.io/portfolio/">wilsongoltara.github.io/portfolio/</a>
