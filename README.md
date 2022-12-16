@@ -6,7 +6,6 @@
 - 🧑‍💻 I’m currently learning and improving NodeJS, ORM, TypeScript.
 - ⚽ I like to go to the beach, play futvolei and running. 
 - 📩 How to reach me: http://www.linkedin.com/in/wilsongoltara
-- <a href="https://wilson-goltara.vercel.app">My portfolio</a>
 
 ### My status
  <div display="inline">
