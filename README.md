@@ -11,8 +11,8 @@
 ### My status
  <div display="inline">
   <a href="https://github.com/wilsongoltara">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=wilsongoltara&show_icons=true&count_private=true&theme=dark" alt="wilsongoltara" />
-  <img width="41%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=wilsongoltara&show_icons=true&locale=en&layout=compact&theme=dark" alt="wilsongoltara" />
+  <img width="49%" src="https://github-readme-stats-wg.vercel.app/api?username=wilsongoltara&show_icons=true&count_private=true&theme=dark" />
+  <img width="49%"  src="https://github-readme-stats-wg.vercel.app/api/top-langs?username=wilsongoltara&show_icons=true&locale=en&theme=dark"/>
  </div>
  
 ### ⚙️ Languages and Tools
