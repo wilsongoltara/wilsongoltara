@@ -25,5 +25,7 @@
   <img src = "https://img.shields.io/badge/-Jest-red?style=for-the-badge&logo=jest&logoColor=white">
   <img src = "https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
   <img src = "https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white">
+ <img src = "https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
+ <img src = "https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python&logoColor=white">
 </div>
 </br>
