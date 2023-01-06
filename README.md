@@ -2,7 +2,7 @@
 
 <h3 align="center">A developer from Brazil, welcome to my profile!!</h3>
 
-- 🏫 I'm currently studing Full Stack Software Development at <a href="https://betrybe.com" target="_blank">Trybe</a> and I do Compute Science at <a href="https://www.ufes.br/" target="_blank">UFES</a>.
+- 🏫 I'm currently studyng Full Stack Software Development at <a href="https://betrybe.com" target="_blank">Trybe</a> and I do Compute Science at <a href="https://www.ufes.br/" target="_blank">UFES</a>.
 - 🧑‍💻 I’m currently learning and improving NodeJS, ORM, TypeScript.
 - ⚽ I like to go to the beach, play futvolei and running. 
 - 📩 How to reach me: http://www.linkedin.com/in/wilsongoltara
