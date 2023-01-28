@@ -8,15 +8,14 @@
 - 📩 How to reach me: http://www.linkedin.com/in/wilsongoltara
 - 📩 Portfolio: https://wilsongoltara.me
 
-### My status
  <div display="inline">
   <a href="https://github.com/wilsongoltara">
   <img width="49%" src="https://github-readme-stats-wg.vercel.app/api?username=wilsongoltara&show_icons=true&theme=dark" />
   <img width="41%" src="https://github-readme-stats-wg.vercel.app/api/top-langs?username=wilsongoltara&show_icons=true&theme=dark&layout=compact"/>
  </div>
  
-### ⚙️ Languages and Tools
-<div >
+## ⚙️ Languages and Tools
+<div>
   <img height='20px' src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white">
   <img height='20px' src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
   <img height='20px' src="https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=TailwindCSS&logoColor=white">
