@@ -16,15 +16,15 @@
  </div>
  
 ### ⚙️ Languages and Tools
-<div align = "left">
-  <img src = "https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white">
-  <img src = "https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src = "https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=TailwindCSS&logoColor=white">
-  <img src = "https://img.shields.io/badge/-NodeJS-brightgreen?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src = "https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux&logoColor=white">
-  <img src = "https://img.shields.io/badge/-Jest-red?style=for-the-badge&logo=jest&logoColor=white">
-  <img src = "https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src = "https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white">
-  <img src = "https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python&logoColor=white">
+<div >
+  <img height='20px' src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white">
+  <img height='20px' src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
+  <img height='20px' src="https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=TailwindCSS&logoColor=white">
+  <img height='20px' src="https://img.shields.io/badge/-NodeJS-brightgreen?style=for-the-badge&logo=node.js&logoColor=white">
+  <img height='20px' src="https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux&logoColor=white">
+  <img height='20px' src="https://img.shields.io/badge/-Jest-red?style=for-the-badge&logo=jest&logoColor=white">
+  <img height='20px' src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
+  <img height='20px' src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white">
+  <img height='20px' src="https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python&logoColor=white">
 </div>
 </br>
