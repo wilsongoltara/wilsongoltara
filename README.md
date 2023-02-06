@@ -7,7 +7,8 @@
 - ⚽ I like to go to the beach, play futvolei and running. 
 - 📩 How to reach me: http://www.linkedin.com/in/wilsongoltara
 - 📩 Portfolio: https://wilsongoltara.me
-
+- 📩 E-mail: wilson.goltara15@gmail.com
+<br/>
  <div display="inline">
   <a href="https://github.com/wilsongoltara">
   <img width="49%" src="https://github-readme-stats-wg.vercel.app/api?username=wilsongoltara&show_icons=true&theme=dark" />
