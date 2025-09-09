@@ -1,30 +1,49 @@
 ### <h1 align="center">Hi 👋, I'm Wilson Goltara</h1>
 
-<h3 align="center">A developer from Brazil, welcome to my profile!!</h3>
+<h3 align="center">Tech Lead Backend @ Enacom Group | Node.js Specialist | Software Architect</h3>
 
-- 🏫 I'm currently studyng Full Stack Software Development at <a href="https://betrybe.com" target="_blank">Trybe</a> and I do Compute Science at <a href="https://www.ufes.br/" target="_blank">UFES</a>.
-- 🧑‍💻 I'm currently learning and improving the microservices in NestJS
-- ⚽ I like to go to the beach, play futvolei and running. 
-- 📩 How to reach me: http://www.linkedin.com/in/wilsongoltara
-- 📩 Portfolio: [https://wilsongoltara.me](https://portfolio-nextjs-wilsongoltara.vercel.app/)
-- 📩 E-mail: wilson.goltara15@gmail.com
-<br/>
- <div display="inline">
+💻 I'm a **Tech Lead Backend at [Enacom Group](https://www.enacom.com/)**, focused on designing and building scalable and maintainable systems.  
+🚀 Passionate about **Node.js, NestJS, MongoDB, and distributed architectures**.  
+🛠️ Experienced in **clean code practices, system integrations, and cloud pipelines (Azure DevOps, Databricks)**.  
+🎯 I value **readability, maintainability, and teamwork**, always aiming for solutions that balance performance and simplicity.  
+
+---
+
+### 📌 What I'm currently working on
+- Improving **Excel/CSV data ingestion pipelines** with strong validation and structured error handling.  
+- Designing **microservices and backend architectures** using Node.js and NestJS.  
+- Optimizing **MongoDB aggregations** for analytics and reporting.  
+- Exploring **financial forecasting tools** for personal projects.  
+
+---
+
+### ⚡ Tech Stack
+<div>
+  <img height='25px' src="https://img.shields.io/badge/-NodeJS-brightgreen?style=for-the-badge&logo=node.js&logoColor=white">
+  <img height='25px' src="https://img.shields.io/badge/-NestJS-red?style=for-the-badge&logo=nestjs&logoColor=white">
+  <img height='25px' src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
+  <img height='25px' src="https://img.shields.io/badge/-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img height='25px' src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
+  <img height='25px' src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=white">
+  <img height='25px' src="https://img.shields.io/badge/-Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white">
+  <img height='25px' src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white">
+  <img height='25px' src="https://img.shields.io/badge/-Jest-red?style=for-the-badge&logo=jest&logoColor=white">
+  <img height='25px' src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white">
+  <img height='25px' src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div display="inline">
   <a href="https://github.com/wilsongoltara">
   <img width="49%" src="https://github-readme-stats-wg.vercel.app/api?username=wilsongoltara&show_icons=true&theme=dark" />
   <img width="41%" src="https://github-readme-stats-wg.vercel.app/api/top-langs?username=wilsongoltara&show_icons=true&theme=dark&layout=compact"/>
  </div>
- 
-## ⚙️ Languages and Tools
-<div>
-  <img height='20px' src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white">
-  <img height='20px' src="https://img.shields.io/badge/-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white">
-  <img height='20px' src="https://img.shields.io/badge/-Tailwind-black?style=for-the-badge&logo=TailwindCSS&logoColor=white">
-  <img height='20px' src="https://img.shields.io/badge/-NodeJS-brightgreen?style=for-the-badge&logo=node.js&logoColor=white">
-  <img height='20px' src="https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux&logoColor=white">
-  <img height='20px' src="https://img.shields.io/badge/-Jest-red?style=for-the-badge&logo=jest&logoColor=white">
-  <img height='20px' src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white">
-  <img height='20px' src="https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=git&logoColor=white">
-  <img height='20px' src="https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python&logoColor=white">
-</div>
-</br>
+
+---
+
+### 📫 Connect with me
+- 💼 [LinkedIn](http://www.linkedin.com/in/wilsongoltara)  
+- 🌐 [Portfolio](https://wilsongoltara.me)  
+- 📩 **wilson.goltara15@gmail.com**
