@@ -2,7 +2,7 @@
 
 <h3 align="center">Tech Lead Backend @ Enacom Group | Node.js Specialist | Software Architect</h3>
 
-💻 I'm a **Tech Lead Backend at [Enacom Group](https://www.enacom.com/)**, focused on designing and building scalable and maintainable systems.  
+💻 I'm a **Tech Lead Backend at [Enacom Group](https://www.enacom.com.br/)**, focused on designing and building scalable and maintainable systems.  
 🚀 Passionate about **Node.js, NestJS, MongoDB, and distributed architectures**.  
 🛠️ Experienced in **clean code practices, system integrations, and cloud pipelines (Azure DevOps, Databricks)**.  
 🎯 I value **readability, maintainability, and teamwork**, always aiming for solutions that balance performance and simplicity.  
