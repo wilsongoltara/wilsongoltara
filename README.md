@@ -45,5 +45,5 @@
 
 ### 📫 Connect with me
 - 💼 [LinkedIn](http://www.linkedin.com/in/wilsongoltara)  
-- 🌐 [Portfolio](https://wilsongoltara.me)  
+- 🌐 [Portfolio](https://portfolio-nextjs-wilsongoltara.vercel.app/)  
 - 📩 **wilson.goltara15@gmail.com**
